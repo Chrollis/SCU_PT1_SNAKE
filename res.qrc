@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>bodyTurn.png</file>
+        <file>domado.png</file>
+        <file>head.png</file>
+        <file>tomato.png</file>
+        <file>tinyTail.png</file>
+        <file>title.png</file>
+        <file>body.png</file>
+        <file>paused.png</file>
+        <file>gameOver.png</file>
+        <file>1P.png</file>
+        <file>2P.png</file>
+        <file>stone.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>ark-pixel-12px-proportional-zh_cn.ttf</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>tomato.ico</file>
+    </qresource>
+</RCC>
